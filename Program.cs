@@ -8,7 +8,7 @@ namespace HelloWorld
         {
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Натисніть будь-яку клавішу, щоб вийти...");
-            Console.ReadKey(); // Чекаємо на натискання клавіші
+            Console.ReadKey(); 
         }
     }
 }
